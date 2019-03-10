@@ -1,3 +1,2 @@
 # NB
-Naive Bayes Classifier for SPAM detection
-read NB.pdf
+Naive Bayes Classifier for SPAM detection (read NB.pdf)
